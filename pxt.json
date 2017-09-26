@@ -1,12 +1,12 @@
 {
     "name": "bluetooth-midi",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "description": "A Bluetooth MIDI service",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "bluetooth": "*",
-        "midi": "github:linclip/pxt-midi#v2.0.4"
+        "midi": "github:linclip/pxt-midi#v2.0.5"
     },
     "files": [
         "README.md",
