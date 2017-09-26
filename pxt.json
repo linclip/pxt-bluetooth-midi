@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "bluetooth": "*",
-        "midi": "github:linclip/pxt-midi"
+        "midi": "github:linclip/pxt-midi#v2.0.5"
     },
     "files": [
         "README.md",
